@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatiaGonGon
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Spring (Spring Boot, Spring MVC) and Relationship DDBB with Hibernate and JPA frameworks.
+- 🌱 I’m currently learning Spring (Spring Boot, Spring MVC) and Relationship DDBB with Hibernate and JPA API's.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me katia.pub.profile@gmail.com
 

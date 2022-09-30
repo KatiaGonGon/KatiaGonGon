@@ -4,6 +4,13 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### untracked files (I supose I don't need them) ###
+HEAD
+config
+description
+hooks/
+info/
+
 ### STS ###
 .apt_generated
 .classpath
